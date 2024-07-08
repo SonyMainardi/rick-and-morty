@@ -1,5 +1,7 @@
 # Rick and Morty Character Search
 
+## Link de Acesso: https://sonymainardi.github.io/rick-and-morty/
+
 Este projeto é uma aplicação web simples que permite buscar informações sobre personagens do universo Rick and Morty usando a API Rick and Morty. Os usuários podem inserir o ID de um personagem e selecionar quais informações desejam visualizar.
 
 ## Tecnologias Utilizadas
