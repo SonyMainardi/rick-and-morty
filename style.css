@@ -1,0 +1,54 @@
+input[type="number"] {
+    padding: 10px;
+    width: 100px;
+    border: 1px solid #ccc;
+    border-radius: 10px; 
+    background-color: #e6f7ff; 
+    box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1); 
+    transition: border-color 0.3s, box-shadow 0.3s; 
+  }
+  
+  input[type="number"]:focus {
+    border-color: #80bfff;
+    box-shadow: inset 0 1px 5px rgba(0, 0, 0, 0.2); 
+    outline: none;
+  }
+  
+  form label {
+    padding-left: 20px;
+  }
+  
+  .result-style {
+    background-color: rgb(198, 255, 189);
+    display: flex;
+    text-align: left;
+    width: 80%;
+    margin: auto;
+    margin-top: 30px;
+    border-radius: 20px;
+    box-shadow: 0 5px 30px rgb(0 0 0 / 0.7);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    box-sizing: border-box;
+  }
+  
+  img {
+    max-height: 200px;
+    padding-right: 20px;
+    border-radius: 20px;
+  }
+
+  body {
+    background-color: rgb(173, 216, 255);
+    align-items: center;
+  }
+
+  button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-right: 10px;
+  }
+  
